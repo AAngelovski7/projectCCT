@@ -1,0 +1,28 @@
+.noteDetails {
+    border: 2px solid #ffb000;
+    font-family: "Comic Sans MS";
+}
+
+.nameNote,
+.descriptionNote {
+    --ion-background-color: #fdf5ec;
+    // background:linear-gradient(to right,#b47b22,  #804936  );
+    font-family: "Comic Sans MS" !important;
+    // padding: 5px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.nameInput,
+.nameLabel,
+.descriptionTextArea,
+.descriptionLabel {
+    font-family: "Comic Sans MS" !important;
+    margin-bottom: 10px;
+}
+
+.footerSection {
+    border: 2px solid #ffb000;
+    border-top: unset !important;
+    font-family: "Comic Sans MS" !important;
+}
